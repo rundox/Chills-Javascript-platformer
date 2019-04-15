@@ -1,2 +1,2 @@
 # Chills-Javascript-platformer
-https://github.com/rundox/Chills-Javascript-platformer/invitations
+This is a neat java script platformer based off of mario or sonic made by two students for a middle school project.
